@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "نقل قول اینجا نمایش داده میشود"; ObjectID = "5hP-iw-Qhj"; */
+"5hP-iw-Qhj.text" = "نقل قول اینجا نمایش داده میشود";
+
+/* Class = "UIButton"; configuration.title = "نقل قول بعدی"; ObjectID = "R3V-r6-IMc"; */
+"R3V-r6-IMc.configuration.title" = "نقل قول بعدی";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R3V-r6-IMc"; */
+"R3V-r6-IMc.normalTitle" = "Button";
